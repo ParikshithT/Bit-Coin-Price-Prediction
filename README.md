@@ -18,8 +18,8 @@ Time Series forecasting with LSTM: Long Short-Term Memory (LSTM) is a type of re
 
 Time Series forecasting with XGBoost: XGBoost is a powerful gradient boosting algorithm widely used for time series forecasting. We explain how to apply XGBoost to the Bitcoin dataset to generate accurate forecasts.
 
-    Time Series forecasting with Facebook Prophet: Facebook Prophet is a forecasting library developed by Facebook's Core Data Science team. We showcase how to leverage Prophet for Bitcoin price forecasting.
+Time Series forecasting with Facebook Prophet: Facebook Prophet is a forecasting library developed by Facebook's Core Data Science team. We showcase how to leverage Prophet for Bitcoin price forecasting.
 
-    Time Series forecasting with ARIMA: Autoregressive Integrated Moving Average (ARIMA) is a classic time series forecasting model. We illustrate how to implement ARIMA for Bitcoin price prediction.
+Time Series forecasting with ARIMA: Autoregressive Integrated Moving Average (ARIMA) is a classic time series forecasting model. We illustrate how to implement ARIMA for Bitcoin price prediction.
 
-Please refer to the respective sections in the Kernel for detailed explanations, code samples, and visualizations related to each forecasting technique.
+Please refer to the notebook sections in the ipynb file for detailed explanations, code samples, and visualizations related to each forecasting technique.
