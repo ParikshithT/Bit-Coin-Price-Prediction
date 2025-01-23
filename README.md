@@ -6,15 +6,17 @@ If you are unfamiliar with Bitcoin, it is recommended to gain basic knowledge ab
 
 This repository consists of a Kernel divided into two main parts:
 
-    Data Exploration: This section focuses on exploring and analyzing the Bitcoin time series data. It includes visualizations, statistical analysis, and insights to gain a comprehensive understanding of the dataset.
+## Data Exploration: 
+This section focuses on exploring and analyzing the Bitcoin time series data. It includes visualizations, statistical analysis, and insights to gain a comprehensive understanding of the dataset.
 
-    Time Series Analysis: In this section, we delve into the techniques and methodologies for time series forecasting using the Bitcoin dataset. We explore various forecasting models and algorithms to predict future trends and patterns in Bitcoin prices.
+## Time Series Analysis: 
+In this section, we delve into the techniques and methodologies for time series forecasting using the Bitcoin dataset. We explore various forecasting models and algorithms to predict future trends and patterns in Bitcoin prices.
 
-The Time Series Forecasting section covers the following techniques:
+### The Time Series Forecasting section covers the following techniques:
 
-    Time Series forecasting with LSTM: Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) specifically designed for processing sequential data. We demonstrate how to utilize LSTM for Bitcoin price prediction.
+Time Series forecasting with LSTM: Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) specifically designed for processing sequential data. We demonstrate how to utilize LSTM for Bitcoin price prediction.
 
-    Time Series forecasting with XGBoost: XGBoost is a powerful gradient boosting algorithm widely used for time series forecasting. We explain how to apply XGBoost to the Bitcoin dataset to generate accurate forecasts.
+Time Series forecasting with XGBoost: XGBoost is a powerful gradient boosting algorithm widely used for time series forecasting. We explain how to apply XGBoost to the Bitcoin dataset to generate accurate forecasts.
 
     Time Series forecasting with Facebook Prophet: Facebook Prophet is a forecasting library developed by Facebook's Core Data Science team. We showcase how to leverage Prophet for Bitcoin price forecasting.
 
